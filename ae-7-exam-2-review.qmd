@@ -26,7 +26,8 @@ Create a model for precicting `interest_rate`.
 
 ## View data
 
-Note the dimensions of the data and the variable names. Review the data dictionary.
+Note the dimensions of the data and the variable names.
+Review the data dictionary.
 
 ```{r}
 #| label: load-data
